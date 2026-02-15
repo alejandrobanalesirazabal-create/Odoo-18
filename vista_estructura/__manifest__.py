@@ -1,1 +1,1 @@
-{"name": "vista_estructura", "version": "1.0", "depends": [], "data": [], "installable": true}
+{"name": "Vista Estructura","version": "1.0","depends": [],"author": "Alejandro Banales","category": "Tools","description": "A module for managing vista estructura functionality in Odoo.","data": [],"installable": true,"application": false}
