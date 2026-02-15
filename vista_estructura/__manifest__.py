@@ -1,0 +1,1 @@
+{"name": "vista_estructura", "version": "1.0", "depends": [], "data": [], "installable": true}
